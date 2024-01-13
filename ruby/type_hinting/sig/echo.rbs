@@ -1,0 +1,6 @@
+# TypeProf 0.21.3
+
+# Classes
+class Echo
+  def self.run: (String char) -> String
+end
